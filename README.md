@@ -15,6 +15,7 @@ To address this challenge, historical sensor data will be used to develop a mach
 The dataset used in this project, sourced from Kaggle and titled **"Industrial IoT"**, contains **500,000 entries** representing various operational conditions of industrial machines. It includes **22 columns** capturing both sensor readings and metadata, such as temperature, vibration, pressure, coolant flow, and installation year. These features simulate real-world telemetry data from Industrial IoT systems, providing a good foundation for developing predictive maintenance models.
 
 A visualization of the target feature distribution
+
 ![target](images/failure_dist.PNG)
 
 ## Data Preprocessing
